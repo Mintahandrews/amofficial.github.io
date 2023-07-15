@@ -1,1 +1,1 @@
-# amofficial.github.io
+#Calculator by Andrews Mintah.
